@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 </p>
-Set tickets and assigned to proper individual.
+Operating under the admin panel, I am setting the severity level of each customer ticket and assigning each ticket to the proper department/individual.
 </p>
 <br />
 
@@ -40,10 +40,10 @@ Set tickets and assigned to proper individual.
 ![image](https://github.com/shaneawilson/ticket-lifecycle/assets/148294831/81b2b4d9-910a-4447-902f-f9d2621da683)
 
 
-Troubleshooting problems with properly assigned department and resolving each issue.
+  In the above images, I am troubleshooting each ticket with the properly assigned help desk professional and leaving a note when the problem is resolved.
 <br />
 
 ![image](https://github.com/shaneawilson/ticket-lifecycle/assets/148294831/ec650b8c-7d8c-442c-a7e7-770dc4020368)
 
-All problems resolved, no open tickets.
+All problems resolved, no open tickets. Operating under the admin panel, I am checking for any open tickets, as well as, reading notes left by departments. Closing any tickets that have been resolved by individuals that do not have the permissions granted to them to close their own tickets.
 <br />
